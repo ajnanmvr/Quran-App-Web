@@ -1,38 +1,43 @@
-.App {
+.ayah-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  background-color: #f2f2f2;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.number {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* Your existing CSS */
+@font-face {
+  font-family: "Mcs_Swer_Al_Quran_4";
+  src: local("Mcs_Swer_Al_Quran_4"),
+    url(../fonts/Mcs_Swer_Al_Quran_4.ttf) format("truetype");
+}
+
+.quran-text {
+  font-size: 26px;
+  font-family: "Mcs_Swer_Al_Quran_4";
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bismi {
+  color: rgb(31, 155, 99);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.single-paragraph {
+  display: inline; /* Ensure all content appears in a single line */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+/* Rest of your CSS */
