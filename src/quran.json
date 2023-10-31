@@ -13,6 +13,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
           ],
+          "translation": "In the Name of Allah—the Most Compassionate, Most Merciful.",
           "text": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
           "numberInSurah": 1,
           "juz": 1,
@@ -28,6 +29,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2.mp3"
           ],
+          "translation": "All praise is for Allah—Lord of all worlds,",
           "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
           "numberInSurah": 2,
           "juz": 1,
@@ -43,6 +45,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3.mp3"
           ],
+          "translation": "the Most Compassionate, Most Merciful,",
           "text": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
           "numberInSurah": 3,
           "juz": 1,
@@ -58,6 +61,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4.mp3"
           ],
+          "translation": "Master of the Day of Judgment.",
           "text": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
           "numberInSurah": 4,
           "juz": 1,
@@ -73,6 +77,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5.mp3"
           ],
+          "translation": "You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
           "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
           "numberInSurah": 5,
           "juz": 1,
@@ -88,6 +93,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6.mp3"
           ],
+          "translation": "Guide us along the Straight Path,",
           "text": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
           "numberInSurah": 6,
           "juz": 1,
@@ -103,6 +109,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/7.mp3"
           ],
+          "translation": "the Path of those You have blessed—not those You are displeased with, or those who are astray.",
           "text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
           "numberInSurah": 7,
           "juz": 1,
@@ -127,6 +134,7 @@
           "audioSecondary": [
             "https://cdn.islamic.network/quran/audio/64/ar.alafasy/8.mp3"
           ],
+          "translation": "In this example, the GlyphWord component renders the provided text with the specified font, size, and color as an SVG element. You can adjust the text, fontSize, fontFamily, and color props to fit your specific requirements.",
           "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
           "numberInSurah": 1,
           "juz": 1,
